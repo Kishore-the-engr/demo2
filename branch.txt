@@ -1,0 +1,10 @@
+1. to create a branch, its easy to create a branch by clicking on branch option in github
+1. git pull in vs code for saving changes, now we have two branches.
+2. to check the number of branches we have , type "git branch -a "
+3. to switch into another branch, type " git checkout branch_name "
+
+now lets create a folder and write code files and push it to the new branch that we have created
+git add . -> git commit -m -> git push origin branch_name
+
+the new branch aka subbranch will be visible only when we checkout to it.
+why do we actually need a subbranch? so individuals can work their code out in sub branch and they all merge it with main branch in the end.
