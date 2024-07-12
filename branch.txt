@@ -6,5 +6,11 @@
 now lets create a folder and write code files and push it to the new branch that we have created
 git add . -> git commit -m -> git push origin branch_name
 
+
+now we are gonna merge the sub branch with main branch:
+1. type "git merge subbranch_name"
+2. then push it by "git push origin main"
+thats it yaay!
+
 the new branch aka subbranch will be visible only when we checkout to it.
 why do we actually need a subbranch? so individuals can work their code out in sub branch and they all merge it with main branch in the end.
