@@ -1,0 +1,6 @@
+to create a branch in vs code:
+1. type "git branch branch_name"
+2. check it by "git branch -a"
+
+pull request:
+in an actual project, not everyone is given access to merge anything with main branch. hence there exists an option named pull request which can be accepted by the owner of the repo.
